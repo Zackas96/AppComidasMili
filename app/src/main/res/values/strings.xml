@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">comidasMili</string>
+    <string name="title_activity_load_screen">loadScreen</string>
+    <string name="title_activity_pantalla_carga">pantallaCarga</string>
+</resources>
